@@ -15,7 +15,7 @@ body {
 	scroll-behavior: smooth;
 	background-attachment: fixed;
 	font-family: verdana;
-	animation: example 2s linear 2s forwards alternate;
+   animation: example 2s linear 2s forwards alternate;
 	
 	
 }
@@ -56,9 +56,11 @@ p {
    color: white;
    position: absolute; 
    top: 83px; 
-   width: 890; 
+   width: 47%;
+   left: 26.39%;
    height: 250;
-   right: 498;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 .piedipagina {
@@ -74,7 +76,13 @@ p {
 .imgincont {
 	position: absolute;
 	top: 355px;
-	width: 650;
-	height: 400;
-	right: 625;
+	width: 35%;
+   height: 400;
+   left: 33%;
+}
+
+.wrapper {
+   margin-left: auto;
+   margin-right: auto;
+   min-width: 1920px;
 }
