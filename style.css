@@ -20,7 +20,7 @@ body {
 	
 }
 h1 {
-	color: black;
+	color: blue;
 	position: absolute; 
    top: 2px; 
    left: 0; 
@@ -33,7 +33,7 @@ h1 {
 
 
 h3 {
-	color: black;
+	color: blue;
    position: absolute; 
    top: 49px; 
    left: 0; 
@@ -53,18 +53,23 @@ table {
 }
 
 p { 
-   color: black;
+   border-style: solid;
+   border-color: cornflowerblue;
+   border-left-style: none;
+   border-right-style: none;
+   border-bottom-style: none;
+   color: blue;
    position: absolute; 
    top: 83px; 
    width: 47%;
-   left: 26.39%;
+   left: 26.50%;
    height: 250;
    margin-left: auto;
    margin-right: auto;
 }
 
 .piedipagina {
-  color: black;
+  color: blue;
    position: absolute; 
    top: 10px; 
    left: 0; 
