@@ -52,20 +52,20 @@ table {
    width: 100%;
 }
 
-p { 
-   border-style: solid;
-   border-color: cornflowerblue;
-   border-left-style: none;
-   border-right-style: none;
-   border-bottom-style: none;
-   color: blue;
-   position: absolute; 
-   top: 83px; 
-   width: 47%;
-   left: 26.50%;
-   height: 250;
-   margin-left: auto;
-   margin-right: auto;
+p {
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    color: blue;
+    position: absolute;
+    top: 228px;
+    width: 47%;
+    left: 500px;
+    height: 250;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .piedipagina {
@@ -79,11 +79,11 @@ p {
 }
 
 .imgincont {
-	position: absolute;
-	top: 355px;
-	width: 35%;
-   height: 400;
-   left: 33%;
+    position: absolute;
+    top: 385px;
+    width: 855px;
+    height: 506px;
+    left: 515px;
 }
 
 .wrapper {
